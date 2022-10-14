@@ -1,3 +1,3 @@
-module github.com/ramanamca04/nummanip
+module github.com/RamanaLucid/nummanip
 
 go 1.18
